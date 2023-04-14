@@ -118,15 +118,23 @@ A horizontal bar chart showing the total emissions by region.
 
 ![](./Images/regionalEmissions.jpeg)
 
+**Emissions by Country**
+
+![](./Images/topCountryEmissions.jpg)
+
 **Emissions by Country and Segment**
 A bubble chart showing the emissions by country and segment.
 
 ![](./Images/emissionsCountryAndSegment.jpg)
 
 **Average Emissions by Year**
-A line chart showing the average emissions by year.
+- A line chart showing the average emissions by year.
 
 ![](./Images/emissionsByYear.jpeg)
+
+- A bar chart for emissions by year
+
+![](./Images/emissionsByYearBar.jpg)
 
 **Emissions by Reason and Type**
 A stacked bar chart showing the emissions by reason and type for United States.
@@ -138,14 +146,18 @@ A stacked bar chart showing emissions by type and segment.
 
 ![](./Images/emissionsTypeAndSegment.jpeg)
 
+**Emissions by Region and Segment**
+
+![](./Images/emissionsRegionSegment.jpeg)
+
 **Emissions by Country and Year**
 3 filtered line charts showing the increase and decrease in emissions as well as the total.
 
-![](./Images/Total.jpeg)
+![](./Images/emissionsCountryAndYearTotal.jpeg)
 
-![](./Images/Increase.jpeg)
+![](./Images/emissionsCountryAndYearIncrease.jpeg)
 
-![](./Images/Decrease.jpeg)
+![](./Images/emissionsCountryAndYearDecrease.jpeg)
 
 **Emissions by Type and Reason**
 A grouped bar chart showing emissions by type and reason.
