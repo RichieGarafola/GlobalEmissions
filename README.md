@@ -143,6 +143,10 @@ A stacked bar chart showing emissions by type and segment.
 
 ![](./Images/emissionsCountryAndYearTotal.jpeg)
 
+![](./Images/emissionsCountryAndYearIncrease.jpeg)
+
+![](./Images/emissionsCountryAndYearDecrease.jpeg)
+
 **Emissions by Type and Reason**
 A grouped bar chart showing emissions by type and reason.
 
