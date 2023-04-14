@@ -34,12 +34,19 @@ Methane is responsible for around 30% of the rise in global temperatures since t
 The following dataset has information about methane gas emissions globally. Details about the columns are as follows:
 
 region -
+
 country - Country of Emission.
+
 emissions - Methane Emissions in kt.
+
 type - Sector from which emissions occur.
+
 Segment- Sub-sector from which emissions occur.
+
 reason - The reason for the emission.
+
 baseYear - Base year for the tracking of emissions.
+
 notes - The source of data
 
 ---
