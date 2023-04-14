@@ -141,11 +141,11 @@ A stacked bar chart showing emissions by type and segment.
 **Emissions by Country and Year**
 3 filtered line charts showing the increase and decrease in emissions as well as the total.
 
-![](./Images/emissionsCountryAndYearTotal.jpeg)
+![](./Images/Total.jpeg)
 
-![](./Images/emissionsCountryAndYearIncrease.jpeg)
+![](./Images/Increase.jpeg)
 
-![](./Images/emissionsCountryAndYearDecrease.jpeg)
+![](./Images/Decrease.jpeg)
 
 **Emissions by Type and Reason**
 A grouped bar chart showing emissions by type and reason.
