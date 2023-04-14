@@ -4,6 +4,7 @@ The purpose of this project is to analyze and visualize data on methane emission
 
 The data was first read in using the pandas library and checked for missing values and data types. Descriptive statistics were then computed to gain an overview of the data. The data was then grouped by country to calculate total emissions for each country. The 'World' row was filtered out from the total emissions dataframe to remove this outlier. Bar charts and treemap visualizations were created to show the top and bottom countries by emissions. The data was then grouped by segment, type, reason, and year for the United States, and pie charts, horizontal bar charts, and a line chart were created to visualize the data.
 
+To view the Analysis, click [here](./EmissionsEDA.ipynb).
 
 ---
 
