@@ -87,101 +87,101 @@ The code produces the following visualizations:
 **Total Emissions**
 - A horizontal bar chart showing the total emissions by country.
 
-![](./Images/totalEmissions.jpg)
+![Total Emissions](./Images/totalEmissions.jpg)
 
 - A treemap visualization showing the total emissions by country.
 
-![](./Images/totalEmissionsTreemap.jpeg)
+![Treemap](./Images/totalEmissionsTreemap.jpeg)
 
 **Emissions by Segment**
 - A pie chart showing the percentage of emissions by segment for the United States.
 
-![](./Images/emissionsSegment.jpeg)
+![Emissions by Segment](./Images/emissionsSegment.jpeg)
 
 **Emissions by Type**
 - A horizontal bar chart showing the emissions by type for the United States.
 
-![](./Images/emissionsType.jpeg)
+![Emissions Type](./Images/emissionsType.jpeg)
 
 **Emissions by Reason**
 - A pie chart showing the percentage of emissions by reason for the United States.
 
-![](./Images/emissionsReason.jpeg)
+![Emissions Reason](./Images/emissionsReason.jpeg)
 
 **Emissions over Time**
 A line chart showing the emissions over time for the United States.
 
-![](./Images/emissionsOverTime.jpeg)
+![Emissions over time](./Images/emissionsOverTime.jpeg)
 
 **Regional Emissions**
 A horizontal bar chart showing the total emissions by region.
 
-![](./Images/regionalEmissions.jpeg)
+![Regional Emissions](./Images/regionalEmissions.jpeg)
 
 **Emissions by Country**
 
-![](./Images/topCountryEmissions.jpg)
+![Emissions by Country](./Images/topCountryEmissions.jpg)
 
 **Emissions by Country and Segment**
 A bubble chart showing the emissions by country and segment.
 
-![](./Images/emissionsCountryAndSegment.jpg)
+![Emissions by Country and Segment](./Images/emissionsCountryAndSegment.jpg)
 
 **Average Emissions by Year**
 - A line chart showing the average emissions by year.
 
-![](./Images/emissionsByYear.jpeg)
+![Emissions by Year](./Images/emissionsByYear.jpeg)
 
 - A bar chart for emissions by year
 
-![](./Images/emissionsByYearBar.jpg)
+![Emissions by year barchart](./Images/emissionsByYearBar.jpg)
 
 **Emissions by Reason and Type**
 A stacked bar chart showing the emissions by reason and type for United States.
 
-![](./Images/emissionsReasonAndType.jpg)
+![Emissions Reason and Type](./Images/emissionsReasonAndType.jpg)
 
 **Emissions by Type and Segment**
 A stacked bar chart showing emissions by type and segment.
 
-![](./Images/emissionsTypeAndSegment.jpeg)
+![Emissions Type and Segment](./Images/emissionsTypeAndSegment.jpeg)
 
 **Emissions by Region and Segment**
 
-![](./Images/emissionsRegionSegment.jpeg)
+![Emissions Region and Segment](./Images/emissionsRegionSegment.jpeg)
 
 **Emissions by Country and Year**
 3 filtered line charts showing the increase and decrease in emissions as well as the total.
 
-![](./Images/emissionsCountryAndYearTotal.jpeg)
+![Total](./Images/emissionsCountryAndYearTotal.jpeg)
 
-![](./Images/emissionsCountryAndYearIncrease.jpeg)
+![Increase](./Images/emissionsCountryAndYearIncrease.jpeg)
 
-![](./Images/emissionsCountryAndYearDecrease.jpeg)
+![Decrease](./Images/emissionsCountryAndYearDecrease.jpeg)
 
 **Emissions by Type and Reason**
 A grouped bar chart showing emissions by type and reason.
 
-![](./Images/emissionsTypeAndReason.jpeg)
+![Emissions Type and Reason](./Images/emissionsTypeAndReason.jpeg)
 
 **Emissions by Region and Type**
 A stacked bar chart to display the emissions by region and type.
 
-![](./Images/emissionsRegionAndType.jpg)
+![Emissions Region and Type](./Images/emissionsRegionAndType.jpg)
 
 **Emissions by Country and Segment**
 Two separate visualizations, one for top emissions and one for bottom emissions
 
-![](./Images/emissionsCountryAndSegment.jpg)
+![Emissions Country and Segment](./Images/emissionsCountryAndSegment.jpg)
 
 **Emissions by Reason and Type**
 - A stacked bar chart to display the emissions by reason and type
 
-![](./Images/emissionsReasonAndType.jpg)
+![Emissions Reason and Type](./Images/emissionsReasonAndType.jpg)
 
 - A grouped barchart to display the emissions by reason and type
 
-![](./Images/emissionsReasonAndTypeGrouped.jpg)
+![grouped barchart](./Images/emissionsReasonAndTypeGrouped.jpg)
 
 ---
 
